@@ -1,7 +1,7 @@
 import cv2 
 import numpy as np
 
-resim = cv2.imread("cocuk.png")
+resim = cv2.imread("images/cocuk.png")
 
 
 kesit = resim[200:300,500:670]

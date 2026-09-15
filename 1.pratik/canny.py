@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-image = cv2.imread("groott.png")
+image = cv2.imread("images/groott.png")
 
 gray = cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)
 blur = cv2.GaussianBlur(gray,(3,3),0)

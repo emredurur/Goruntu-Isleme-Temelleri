@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-image= cv2.imread("engineer.png")
+image= cv2.imread("images/engineer.png")
 
 kernel = np.ones((5,5),np.uint8)
 

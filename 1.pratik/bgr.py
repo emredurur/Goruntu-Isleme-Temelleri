@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-resim = cv2.imread("groott.png")
+resim = cv2.imread("images/groott.png")
 
 resim[30,40]=[0,0,255]
 y=0 

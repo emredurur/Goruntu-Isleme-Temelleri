@@ -1,6 +1,6 @@
 import cv2
 
-image = cv2.imread("parmakizi.png",0)
+image = cv2.imread("images/parmakizi.png",0)
 
 #resize=image.resize((500,500))
 

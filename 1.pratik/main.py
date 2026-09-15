@@ -4,7 +4,7 @@ from pathlib import Path
 
 
 
-image = cv2.imread("araba.jpg")
+image = cv2.imread("images/araba.jpg")
 
 
 if image is None:

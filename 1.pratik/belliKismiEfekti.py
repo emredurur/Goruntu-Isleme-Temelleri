@@ -1,7 +1,7 @@
 import cv2 
 import numpy as np
 
-resim = cv2.imread("kemalSunal.png")
+resim = cv2.imread("images/kemalSunal.png")
 
 resim[250:350,570:850,2] = 255
 resim[250:350,570:850,1] = 32
