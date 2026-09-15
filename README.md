@@ -1,2 +1,2 @@
-# G-r-nt-leme-Temelleri
+# GORUNTU ISLEME TEMELLERI
 Python ile Görüntü İşleme temellerini attım. Opencv kütüphanesini kullandım
